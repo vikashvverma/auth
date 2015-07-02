@@ -1,0 +1,6 @@
+{
+    "db": "mongodb://localhost/mean",
+    "app": {
+        "name": "auth - Login authentication in MEAN Stack"
+    }
+}
